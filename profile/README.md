@@ -6,11 +6,11 @@
 
 Официальные приложения Nuvia VPN.
 
-[Скачать для Android](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.18/Nuvia.apk) · [Установка и поддержка](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.0.18)
+[Скачать для Android](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.19/Nuvia.apk) · [Установка и поддержка](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.0.19)
 
 </div>
 
-**Android 7.0+ · ARM64 · версия 1.0.18.**
+**Android 7.0+ · ARM64 · версия 1.0.19.**
 
 **Nuvia можно использовать бесплатно.**
 
