@@ -6,7 +6,13 @@
 
 Официальные приложения Nuvia VPN.
 
-[Скачать для Android](https://github.com/Nuvia-VPN/releases/releases/download/v1.1.63/Nuvia.apk) · [Установка и поддержка](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.1.63)
+<p>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk">
+<img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/main/assets/install-android.svg" width="460" alt="Установить Nuvia на Android — скачать APK">
+</a>
+</p>
+
+[Установка и поддержка](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.1.63)
 
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
