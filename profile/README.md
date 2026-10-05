@@ -6,19 +6,19 @@
 
 Официальные приложения Nuvia VPN.
 
-[Скачать для Android](https://github.com/Nuvia-VPN/releases/releases/download/v1.1.38/Nuvia.apk) · [Установка и поддержка](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.1.38)
+[Скачать для Android](https://github.com/Nuvia-VPN/releases/releases/download/v1.1.63/Nuvia.apk) · [Установка и поддержка](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.1.63)
 
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
-**Android 7.0+ · ARM64 · версия 1.1.38.**
+**Android 7.0+ · ARM64 · версия 1.1.63.**
 
 **Nuvia можно использовать бесплатно: 1 ГБ в сутки, начать можно без почты.**
 
 За первое подтверждение новой почты и за приглашённого друга — +7 дней PRO.
 
-Обновлены подписка и оплата, аккаунт и настройки. В «Моих устройствах» можно посмотреть подключённые устройства и отозвать вход другого устройства.
+Исправлено сохранение соединения Xray после выгрузки интерфейса и при смене сети. Добавлены понятные сообщения о сбоях и возможность отключить блокирующий туннель. APK уменьшен примерно до 80 МБ; постоянная подпись сохранена.
 
 Русский · English · 简体中文 · فارسی.
 
