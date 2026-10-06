@@ -12,13 +12,13 @@
 </a>
 </p>
 
-[Установка и поддержка](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.1.74)
+[Установка и поддержка](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.1.75)
 
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
-**Android 7.0+ · ARM64 · версия 1.1.74.**
+**Android 7.0+ · ARM64 · версия 1.1.75.**
 
 **Nuvia можно использовать бесплатно: 1 ГБ в сутки, начать можно без почты.**
 
