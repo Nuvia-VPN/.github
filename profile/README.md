@@ -8,7 +8,7 @@
 
 <p>
 <a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk">
-<img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/2be1cb611409f0aee317e65c57043c1f9fe130a4/assets/install-android.svg" width="460" alt="Установить Nuvia на Android — скачать APK">
+<img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/5f42e5a9d774014ee20ad82c055e44f6bd5460a7/assets/install-android.svg" width="460" alt="Установить Nuvia на Android — скачать APK">
 </a>
 </p>
 
