@@ -8,21 +8,23 @@
 
 <p>
 <a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk">
-<img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/cabd3c190507b242d60e46ad632bddea72e4af1d/assets/install-android.svg" width="460" alt="Установить Nuvia на Android — скачать APK">
+<img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/b95e0cbbd0c503d683ecb30f56afd902413fe47b/assets/install-android.svg" width="460" alt="Установить Nuvia на Android — скачать APK">
 </a>
 </p>
 
-[Установка и поддержка](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.12)
+[Установка и поддержка](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.13)
 
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
-**Android 7.0+ · ARM64 · версия 1.2.12.**
+**Android 7.0+ · ARM64 · версия 1.2.13.**
 
 **Nuvia можно использовать бесплатно: 1 ГБ в сутки, начать можно без почты.**
 
 За первое подтверждение новой почты и за приглашённого друга — +7 дней PRO.
+
+В 1.2.13 исправлено восстановление Xray после неудачного перехода между сетями: при возврате рабочей сети VPN восстанавливается и с заблокированным экраном. После явного отключения соединение само не включается.
 
 В 1.2.12 «Трафик в обход VPN» и «Маршрутизация» находятся в **Настройки → Продвинутые настройки**. Добавлены автоматическое восстановление Xray, выбор DNS, обновление GeoIP/GeoSite без APK и поддержка системного Always-on Xray на Android 10+. Базы можно обновлять вручную и ежедневно по Wi-Fi; новые версии применяются при следующем подключении. Автоматическая маршрутизация понимает GeoSite и регулярные выражения RE2.
 
@@ -44,4 +46,4 @@
 
 Ограниченный ключ доставки не даёт права управлять аккаунтом или выполнять финансовые операции и не восстанавливает потерянный либо отозванный полноценный ключ входа. Для push нужны доступные Google Play Services; доставка зависит от сети и ограничений Android. Новая доставка на реальной подходящей старой сессии и автоматическое исключение официального приложения в живом туннеле в этом цикле не проверены.
 
-Системный Always-on и блокировка соединений без VPN включаются в настройках Android; отдельного перехода к ним внутри Nuvia нет. Новые DNS-настройки, геобазы и автоматическое восстановление относятся к Xray. Автовыбор использует Xray; реальные подключения с AmneziaWG/OLCRTC ещё не приняты. [Изменения, проверки и ограничения 1.2.12](https://github.com/Nuvia-VPN/releases/blob/main/docs/changes/1.2.12-ru.md).
+Системный Always-on и блокировка соединений без VPN включаются в настройках Android; отдельного перехода к ним внутри Nuvia нет. Новые DNS-настройки, геобазы и автоматическое восстановление относятся к Xray. Автовыбор использует Xray; реальные подключения с AmneziaWG/OLCRTC ещё не приняты. [Изменения, проверки и ограничения 1.2.13](https://github.com/Nuvia-VPN/releases/blob/main/docs/changes/1.2.13-ru.md).
