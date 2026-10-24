@@ -8,13 +8,13 @@
 
 <a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/main/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Скачать и установить](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.41)
+[Скачать и установить](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.42)
 
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
-**Nuvia 1.2.41 для Android 7.0 и новее, 64-разрядных устройств.**
+**Nuvia 1.2.42 для Android 7.0 и новее, 64-разрядных устройств.**
 
 - **Free — 1 ГБ в сутки.** Начать можно без почты.
 - **PRO — 500 ГБ в месяц.**
@@ -22,4 +22,4 @@
 - Ручной и автоматический выбор локации.
 - Промокоды, приглашение друзей и поддержка внутри приложения.
 
-Исправлена проверка новых версий приложения после исчерпания трафика.
+Единое оформление предложения PRO на главном экране. После исчерпания трафика индикатор показывает нулевой остаток, а пояснение отображается в области локаций.
