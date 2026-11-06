@@ -6,15 +6,17 @@
 
 Приложение для удобного подключения к VPN.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/d1e7455134a897f64f7e40ff2014e31cf1255130/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/cb56d5a865db7c2898c2d2bafa8ddb789c0461ab/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Скачать и установить](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.48)
+[Скачать и установить](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.49)
 
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
-**Nuvia 1.2.48 для Android 7.0 и новее, 64-разрядных устройств.**
+**Nuvia 1.2.49 для Android 7.0 и новее, 64-разрядных устройств.**
+
+Восстановление сервиса продолжается. Вход и VPN пока могут быть недоступны; о готовности к тестированию сообщим отдельно.
 
 - **Free — 1 ГБ в сутки.** Начать можно без почты.
 - **PRO — 500 ГБ в месяц.**
@@ -22,4 +24,4 @@
 - Ручной и автоматический выбор локации.
 - Промокоды, приглашение друзей и поддержка внутри приложения.
 
-Уточнены состояния подтверждения почты и ручной проверки. Исправлена ошибка блока промокодов после пересоздания аккаунта.
+Обновлена совместимость с восстановленным сервисом Nuvia и обновление сохранённых данных подключения.
