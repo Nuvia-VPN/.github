@@ -6,19 +6,19 @@
 
 Приложение для удобного подключения к VPN.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/b6a5c4e0564601ac8f08487288c1526da3092832/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/eeb1f59774c5b87be5f1bc10c4e7967b653cef64/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Скачать и установить](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.65)
+[Скачать и установить](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.66)
 
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
-**Nuvia 1.2.65 для Android 7.0 и новее, 64-разрядных устройств.**
+**Nuvia 1.2.66 для Android 7.0 и новее, 64-разрядных устройств.**
 
-Исправлена потеря части логов при подготовке файла для поддержки.
+Исправлено автоматическое восстановление VPN после обрыва Wi-Fi.
 
-Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.65](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.65/Nuvia.apk) и установите поверх текущей версии.
+Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.66](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.66/Nuvia.apk) и установите поверх текущей версии.
 
 - **Free — 1 ГБ в сутки.** Начать можно без почты.
 - **PRO — 500 ГБ в месяц.**
