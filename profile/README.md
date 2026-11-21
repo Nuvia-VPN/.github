@@ -6,19 +6,21 @@
 
 Приложение для удобного подключения к VPN.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/5d1ad1a99e31374d6ed3127110d3ad9951acd518/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/15484708536c517992da69db65bdc6bb92b5bc67/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Скачать и установить](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.75)
+[Скачать и установить](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.76)
 
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
-**Nuvia 1.2.75 для Android 7.0 и новее, 64-разрядных устройств.**
+**Nuvia 1.2.76 для Android 7.0 и новее, 64-разрядных устройств.**
 
-Уменьшили значок и значение пинга в списке локаций.
+Исправили повторную отправку письма для входа. Когда время ожидания заканчивается, кнопка «Повторить» снова доступна.
 
-Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.75](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.75/Nuvia.apk) и установите поверх текущей версии.
+Убрали кнопку «Пригласить друга» с карточки трафика на Главной.
+
+Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.76](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.76/Nuvia.apk) и установите поверх текущей версии.
 
 - **Free — 1 ГБ в сутки.** Начать можно без почты.
 - **PRO — 500 ГБ в месяц.**
