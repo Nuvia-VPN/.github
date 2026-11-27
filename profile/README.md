@@ -6,19 +6,19 @@
 
 Приложение для удобного подключения к VPN.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/ab89a3c586e501fbcf7b9eb013a462be8af0611b/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/ffecc6c4dc133f63e8e3dc13ff212b4f4f97c03c/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Скачать и установить](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.95)
+[Скачать и установить](https://github.com/Nuvia-VPN/releases) · [Что нового](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.97)
 
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
-**Nuvia 1.2.95 для Android 7.0 и новее, 64-разрядных устройств.**
+**Nuvia 1.2.97 для Android 7.0 и новее, 64-разрядных устройств.**
 
-Исправили подключение к VPN при обновлении настроек и показ списка локаций сразу после входа. При кратких обрывах связи приложение само повторяет запросы аккаунта.
+С главной страницы убрали плашку «+7 дн. подписки» за приглашение друга. Она появлялась рядом с остатком трафика, хотя приглашения уже отключены.
 
-Скачайте [APK 1.2.95](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.95/Nuvia.apk) и установите его поверх прежней версии. Аккаунт и настройки сохранятся.
+Скачайте [APK 1.2.97](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.97/Nuvia.apk) и установите его поверх прежней версии. Аккаунт и настройки сохранятся.
 
 - **Free — 1 ГБ в сутки.** Начать можно без почты.
 - **PRO — 500 ГБ в месяц.**
